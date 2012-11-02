@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Rotary Newsletter feature.
+ */
+
+include_once 'rotary_newsletter.features.inc';
